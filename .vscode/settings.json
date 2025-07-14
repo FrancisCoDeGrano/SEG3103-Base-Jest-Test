@@ -1,0 +1,6 @@
+{
+  "jest.jestCommandLine": "npm test",
+  "jest.runMode": "on-demand",
+  "editor.formatOnSave": true,
+  "files.autoSave": "afterDelay"
+}
